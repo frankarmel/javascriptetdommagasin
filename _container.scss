@@ -1,0 +1,34 @@
+.container {
+    width: 95%;
+    max-width: 980px;
+    margin: 0 auto;
+  .row {
+      display: flex;
+      justify-content: space-between;
+      margin: 1em 0;
+      .col-bg {
+        background: #21290f;
+        color: #fff;
+        padding: 1em;
+      }
+      .col-1 {
+        width: 25%;
+      }
+      .col-2 {
+        width: 50%;
+      }
+      .col-3 {
+        width: 75%;
+      }
+    }
+  }
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  

@@ -1,0 +1,11 @@
+{
+  "name": "exercice-level2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass index.scss index.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
